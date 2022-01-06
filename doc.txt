@@ -1,0 +1,10 @@
+________________________________________________________________
+yarn run jest --watchAll --verbose --coverage
+--watchAll to watch the code in background.
+--verbose to rerun the tests everytime tha changes
+--coverage to check the test coverage
+________________________________________________________________
+yarn run cypress open
+
+-to end 2 end tests
+________________________________________________________________
